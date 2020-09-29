@@ -1,8 +1,8 @@
 ### lambda
 
 
+**[] () mutable throwSpec -> retType { };**
 
-**[] () mutable throwSpec -> retType { }; **
 
 * []  需要的外界的变量,可以值传递,也可以传引用
 * 值传递想要改变值的话得加mutable
